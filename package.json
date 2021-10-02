@@ -1,0 +1,16 @@
+{
+  "name": "react-basic-source",
+  "version": "1.0.0",
+  "description": "This is for the basic source of React Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Daniel Song",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.8"
+  }
+}
